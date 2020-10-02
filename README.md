@@ -2,4 +2,5 @@
 
 Document templates for software developers.
 
-- [Technology Proposal](./technology-proposal.md)
+- [Squad Policies and Procedures](./squad-policies-procedures/)
+- [Technology Proposal](./technology-proposal/)
