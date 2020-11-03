@@ -6,3 +6,4 @@ Document templates for software developers.
 - [Premortem](./premortem/)
 - [Squad Policies and Procedures](./squad-policies-procedures/)
 - [Technology Proposal](./technology-proposal/)
+- [User Manual](./user-manual/)
