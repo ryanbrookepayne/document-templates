@@ -1,10 +1,10 @@
 ### Steps to Reproduce
 
-1. ENTER_STEPS_TO_REPRODUCE
+1. 
 
 ### Behavior
 
-- Expected
-  - ENTER_EXPECTED_BEHAVIOR
-- Actual
-  - ENTER_ACTUAL_BEHAVIOR
+- **Expected**
+  - 
+- **Actual**
+  - 
