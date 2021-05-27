@@ -1,0 +1,10 @@
+As a ______, I want to _____ so that _____.
+
+### Success Criteria
+
+#### Scenario A: _____
+
+1. Given _____
+2. When _____
+3. And _____
+4. Then _____
