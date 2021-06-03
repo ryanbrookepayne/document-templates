@@ -1,6 +1,6 @@
 # 📑 Document Templates
 
-Document templates for software engineers.
+Document templates for software engineers. Use [Clipboard History Pro](https://clipboardextension.com/) to save these templates for easy access.
 
 ## [Jira Bug Ticket](./jira-bug-ticket.txt)
 
